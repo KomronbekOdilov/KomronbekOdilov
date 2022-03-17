@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Komronbek Odilov
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on ...
+- # 👋 Hi, I’m Komronbek Odilov
+- 👀 I’m interested in ***Python***
+- 🌱 I’m currently learning ***Django***
 - 📫 How to reach me: odilovkomron9019@gmail.com
 
 <!---
