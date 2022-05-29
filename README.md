@@ -10,7 +10,7 @@
     <ul>
     <li>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python"  alt="python" width="35"                height="35"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="django"  alt="django" width="35" height="35"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django"  alt="django" width="35" height="35"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash"  alt="bash" width="35" height="35"/>&nbsp;
     </li><br />
   
